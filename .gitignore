@@ -116,3 +116,7 @@ user_song_list.h
 compile_commands.json
 .clangd/
 .cache/
+
+# node
+node_modules/
+yarn.lock
